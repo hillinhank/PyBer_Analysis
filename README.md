@@ -15,4 +15,3 @@ Several suggestions I would like make:
 -Considering over two-thirds of all rides come from Urban areas, it may be beneficial to offer customer incentives in months with nice weather. Volume and customer loyalty are key.
 - In both Rural and Suburban areas, Pybers Average Fare Per Ride is less than their Average Fare Per Driver. Pyber is taking a financial loss in these areas, it may be necessary to simply charge more per ride in Rural areas, or to not offer their services in certain areas.
 - Lastly, there are more Total Drivers in Urban areas than there are Total Rides. Steps need to be taken to increase the total rides in this area. 
-![image](https://user-images.githubusercontent.com/101481759/164747316-e553fef1-d924-4e17-a3cb-7a72caae778f.png)
